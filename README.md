@@ -1,5 +1,5 @@
 - :sparkles: Hi, I’m @jie-wa
-- :white_flower: 快乐的小小前端
+- :white_flower: 快乐的前端
 - 🌱 I’m currently learning vue3/ts
 - :children_crossing: 横断步道
 
